@@ -5,7 +5,7 @@ Proposed structure:
 | Session |       Title        |      Description                      |                    Exercise |
 | :------ | :----------------: | :-----------------------------------: | --------------------------: |
 | 1       |     Python 101     |   Intro to syntax and core concepts   |             Python workbook |
-| 2       |   Data Analysis    | Analysis libraries (numpy and pandas) |     Vehicles classification |
+| 2       |   Data Analysis    | Analysis libraries (numpy and pandas) |       Per Capita C02 Output |
 | 3       |     Databases      |          DB storage and SQL           |            Build our own DB |
 | 4       |   Visualisation    |  Sexy graphs, charts, and wordclouds  |    Colourful visualisations |
 | 5       |  Machine Learning  |             Simple models             | Regression & Decision Trees |
